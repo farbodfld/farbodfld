@@ -13,8 +13,6 @@ I also know a little about application development with android and website deve
   * HTML
   * CSS
   * Unity
-  
-Skills: Java/ C#/ .NET/ Python/ HTML / CSS/ Unity
 
 - 🔭 I’m currently working on web application 
 - 🌱 I’m currently learning Machine Learning 
