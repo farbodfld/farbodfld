@@ -5,6 +5,14 @@ I'm currently working as windows application and web application developer.
 I really enjoy learning UI/UX and work with them.
 I also know a little about application development with android and website development and I really enjoy working on android projects and learn android development more.
 
+## Skills and Experience
+  . Java
+  . C#
+  . .NET
+  . Python
+  . HTML
+  . CSS
+  . Unity
 Skills: Java/ C#/ .NET/ Python/ HTML / CSS/ Unity
 
 - 🔭 I’m currently working on web application 
