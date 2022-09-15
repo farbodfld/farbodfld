@@ -14,7 +14,7 @@ I also know a little about application development with android and website deve
   * CSS
   * Unity
  
- 
+ ## Additional information
 - 🔭 I’m currently working on web application 
 - 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me: farbodfooladi@gmail.com 
