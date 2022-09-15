@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Farbod Fooladi
 ### Computer engineer student at Shahid-Beheshti-University
-I am a backend developer but i'm also interest on frontend develpment too.
+I am a backend developer but i'm also interest in frontend develpment too.
 I'm currently working as windows application and web application developer.
 I really enjoy learning UI/UX and work with them.
 I also know a little about application development with android and website development and I really enjoy working on android projects and learn android development more.
