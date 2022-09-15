@@ -7,17 +7,11 @@ I also know a little about application development with android and website deve
 
 ## Skills and Experience
   . Java
-  
   . C#
-  
   . .NET
-  
   . Python
-  
   . HTML
-  
   . CSS
-  
   . Unity
   
 Skills: Java/ C#/ .NET/ Python/ HTML / CSS/ Unity
