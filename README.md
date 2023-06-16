@@ -18,8 +18,8 @@ I also know a little about application development with android and website deve
   * Unity
  
  ## Additional information
-- 🔭 I’m currently working on web application 
-- 🌱 I’m currently learning Machine Learning 
+- 🔭 I’m currently working on anomaly log detection reseach 
+- 🌱 I’m currently learning Machine Learning and web-application development
 - 📫 How to reach me: farbodfooladi@gmail.com 
 
 
@@ -29,9 +29,9 @@ I also know a little about application development with android and website deve
 [![trophy](https://github-profile-trophy.vercel.app/?username=farbodfld)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farbodfld)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farbodfld&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=farbodfld&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=farbodfld&show_icons=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farbodfld)  
 
