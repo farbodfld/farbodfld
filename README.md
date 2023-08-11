@@ -29,7 +29,7 @@ I also know a little about application development with android and website deve
 [![trophy](https://github-profile-trophy.vercel.app/?username=farbodfld)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farbodfld&theme=dark)](https://github.com/farbodfld/farbodfld)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farbodfld&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farbodfld&show_icons=true&theme=radical)  
 
