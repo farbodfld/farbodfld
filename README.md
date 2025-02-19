@@ -2,19 +2,32 @@
 ### Computer engineer student at Shahid-Beheshti-University
 I am a backend developer but I'm also interested in frontend development too.
 
-I'm currently working a windows application and web application developer.
+I am a Software Developer with a Bachelor's degree in Computer Science and currently pursuing Data Science at the University of Essex. My expertise spans across various domains in software development, including:
 
-I really enjoy learning UI/UX and working with them.
+🚀 Web Development – Building responsive and scalable web applications.
+🖥 Software Development – Creating Windows Forms applications and other programmes.
+📊 Data Analytics – Extracting insights and making data-driven decisions.
+🤖 Machine Learning – Developing models to solve real-world problems.
+🐍 Python Projects – Automating tasks, scripting, and AI-based applications.
 
-I also know a little about application development with android and website development and I really enjoy working on android projects and learning android development.
+I am passionate about problem-solving, writing clean and efficient code, and continuously learning new technologies. Feel free to explore my repositories and connect with me!
 
 ## Skills and Experience
-  * Java
+  * Python
+  * Java Script
+  * Node.js
+  * Express js
+  * Next.js
+  * tailwind css
+  * typescript
+  * React
+  * R
   * C#
   * .NET
-  * Python
+  * Java
   * HTML
   * CSS
+  * android
   * Unity
  
  ## Additional information
