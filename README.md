@@ -18,12 +18,12 @@ I also know a little about application development with android and website deve
   * Unity
  
  ## Additional information
-- 🔭 I’m currently studying Master of Data Science  
-- 🌱 You can visit my portfolio: https://farbodfooladi.vercel.app/
+- 🔭 I’m currently studying Master of Data Science in University of Essex
+- 🌐 You can visit my portfolio: https://farbodfooladi.vercel.app/
 - 📫 How to reach me: farbodfooladi@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='red'>](https://github.com/farbodfld)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farbod-fooladi-379783249/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farbodfld)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farbod-fooladi-379783249/)  
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=farbodfld)](https://github.com/ryo-ma/github-profile-trophy)
