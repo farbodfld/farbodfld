@@ -4,11 +4,11 @@ I am a backend developer but I'm also interested in frontend development too.
 
 I am a Software Developer with a Bachelor's degree in Computer Science and currently pursuing Data Science at the University of Essex. My expertise spans across various domains in software development, including:
 
-🚀 Web Development – Building responsive and scalable web applications.
-🖥 Software Development – Creating Windows Forms applications and other programmes.
-📊 Data Analytics – Extracting insights and making data-driven decisions.
-🤖 Machine Learning – Developing models to solve real-world problems.
-🐍 Python Projects – Automating tasks, scripting, and AI-based applications.
+- 🚀 Web Development – Building responsive and scalable web applications.
+- 🖥 Software Development – Creating Windows Forms applications and other programmes.
+- 📊 Data Analytics – Extracting insights and making data-driven decisions.
+- 🤖 Machine Learning – Developing models to solve real-world problems.
+- 🐍 Python Projects – Automating tasks, scripting, and AI-based applications.
 
 I am passionate about problem-solving, writing clean and efficient code, and continuously learning new technologies. Feel free to explore my repositories and connect with me!
 
