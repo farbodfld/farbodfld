@@ -1,6 +1,4 @@
 # Hi there 👋, my name is Farbod Fooladi
-### Computer engineer student at Shahid-Beheshti-University
-I am a backend developer but I'm also interested in frontend development too.
 
 I am a Software Developer with a Bachelor's degree in Computer Science and currently pursuing Data Science at the University of Essex. My expertise spans across various domains in software development, including:
 
