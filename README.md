@@ -18,8 +18,8 @@ I also know a little about application development with android and website deve
   * Unity
  
  ## Additional information
-- 🔭 I’m currently working on anomaly log detection reseach 
-- 🌱 I’m currently learning Machine Learning and web-application development
+- 🔭 I’m currently studying Master of Data Science  
+- 🌱 You can visit my portfolio: https://farbodfooladi.vercel.app/
 - 📫 How to reach me: farbodfooladi@gmail.com 
 
 
